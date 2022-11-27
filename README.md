@@ -1,4 +1,7 @@
 # E-commerce-
+#  this site is deployed at microsoft azure
+ https://kind-coast-0347d9710.2.azurestaticapps.net/# 
+
 # Homepage
 ![banner-1](https://user-images.githubusercontent.com/118009544/204144983-cf67e20b-b438-4f25-9edb-b8cb05f5eeba.jpg)
 
