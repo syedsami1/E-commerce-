@@ -1,5 +1,5 @@
 # E-commerce-
-#  this site is deployed at microsoft azure
+#  This site is deployed at microsoft azure
  https://kind-coast-0347d9710.2.azurestaticapps.net/# 
 
 # Homepage
