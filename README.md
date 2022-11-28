@@ -11,3 +11,4 @@
 ![electronics-banner-1](https://user-images.githubusercontent.com/118009544/204145032-8159074b-51f1-4575-83e8-eb796371e66d.jpg)
 
 #  project video demo
+https://drive.google.com/file/d/1lJdrEImvCNkGuxqpoc5gmlkQKRr0L9t4/view?usp=drivesdk
